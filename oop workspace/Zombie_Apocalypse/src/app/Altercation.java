@@ -69,7 +69,7 @@ public class Altercation {
 	
 	
 	
-	public static void main(String[] args) {
+/*	public static void main(String[] args) {
 		Altercation a = new Altercation();
 		Human ted = new Human(100, 75, Weapons.CROWBAR);
 		Zombie zed = new Zombie(200, 50, Weapons.BITE, 1);
@@ -87,7 +87,7 @@ public class Altercation {
 		a.bite(zed, ted);
 
 		
-	}
+	}*/
 	
 	
 	
